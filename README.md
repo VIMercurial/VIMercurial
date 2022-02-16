@@ -19,6 +19,7 @@
 - 🖥🌎 &nbsp; DESENVOLVIMENTO DE APLICAÇÕES SERVERSIDE-
 
 ![PYTHON](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 - 🖥💻 &nbsp; DESENVOLVIMENTO DE PÁGINAS DA WEB-
 
