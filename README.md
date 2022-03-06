@@ -3,7 +3,7 @@
 - 😁 &nbsp; Eu sou um rapaz que gosta de trabalhar em equipe!
 - 🤔 &nbsp; Sou conhecido por ser uma pessoa que tenta solucionar problemas!
 - 🎓 &nbsp; Formado em DESIGN DE GAMES pela faculdade ANHEMBI MORUMBI.
-- 💼 &nbsp; Atuei como Professor de Informática e fazendo o T.I da escola STARTPRO.
+- 💼 &nbsp; Trabalhando como Web Designer para a companhia B.B. Serviços.
 
 - 🖥💻 &nbsp; SISTEMAS OPERACIONAIS OS QUAIS TENHO BONS CONHECIMENTOS-
 
