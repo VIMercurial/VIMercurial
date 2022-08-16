@@ -3,7 +3,7 @@
 - 😁 &nbsp; Eu sou um rapaz que gosta de trabalhar em equipe!
 - 🤔 &nbsp; Sou conhecido por ser uma pessoa que tenta solucionar problemas!
 - 🎓 &nbsp; Formado em DESIGN DE GAMES pela faculdade ANHEMBI MORUMBI.
-- 💼 &nbsp; Trabalhando como Web Designer para a companhia B.B. Serviços.
+- 💼 &nbsp; Trabalhando como Suporte Técnico para LSBWebInfo.
 
 - 🖥💻 &nbsp; SISTEMAS OPERACIONAIS OS QUAIS TENHO BONS CONHECIMENTOS-
 
@@ -20,7 +20,8 @@
 
 ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![MONGODB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
 - 🖥💻 &nbsp; DESENVOLVIMENTO DE PÁGINAS DA WEB-
 
