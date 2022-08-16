@@ -4,12 +4,10 @@
 - 🤔 &nbsp; Sou conhecido por ser uma pessoa que tenta solucionar problemas!
 - 🎓 &nbsp; Formado em DESIGN DE GAMES pela faculdade ANHEMBI MORUMBI.
 - 💼 &nbsp; Trabalhando como Suporte Técnico para LSBWebInfo.
-- 🖥️ &nbsp; Presto suporte para o software Horus e Cronuz.
-- 🖥️ &nbsp; Atualmente trabalhando com a metodolgia PSR-4 e MVC.
+- 💼 &nbsp; Presto suporte para o software Horus e Cronuz.
+- 💼 &nbsp; Atualmente trabalhando com a metodolgia PSR-4 e MVC.
 
---+--
-
-- 🖥💻 &nbsp; SISTEMAS OPERACIONAIS OS QUAIS TENHO BONS CONHECIMENTOS-
+- 🖥 &nbsp; SISTEMAS OPERACIONAIS OS QUAIS TENHO BONS CONHECIMENTOS-
 
 ![MANJARO](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
 ![WINDOWS](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
