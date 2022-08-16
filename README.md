@@ -7,6 +7,8 @@
 - 🖥️ &nbsp; Presto suporte para o software Horus e Cronuz.
 - 🖥️ &nbsp; Atualmente trabalhando com a metodolgia PSR-4 e MVC.
 
+--+--
+
 - 🖥💻 &nbsp; SISTEMAS OPERACIONAIS OS QUAIS TENHO BONS CONHECIMENTOS-
 
 ![MANJARO](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)
