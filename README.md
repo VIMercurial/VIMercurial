@@ -4,6 +4,8 @@
 - 🤔 &nbsp; Sou conhecido por ser uma pessoa que tenta solucionar problemas!
 - 🎓 &nbsp; Formado em DESIGN DE GAMES pela faculdade ANHEMBI MORUMBI.
 - 💼 &nbsp; Trabalhando como Suporte Técnico para LSBWebInfo.
+- 🖥️ &nbsp; Presto suporte para o software Horus e Cronuz.
+- 🖥️ &nbsp; Atualmente trabalhando com a metodolgia PSR-4 e MVC.
 
 - 🖥💻 &nbsp; SISTEMAS OPERACIONAIS OS QUAIS TENHO BONS CONHECIMENTOS-
 
